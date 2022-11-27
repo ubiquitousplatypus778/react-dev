@@ -4,7 +4,7 @@
 https://ubiquitousplatypus778.github.io/react-dev/
 
 ### Goal and Value of the Application
-The interface is designed to help users view the information of a list of properties and select a property of their choice. 
+The interface is designed to help potential house buyers view the information of a list of properties and select a property of their choice. 
 
 ### Usability Principles Considered
 I used a grid layout to better present the list of houses. A panel of checkboxes is located to the left of the house cards to provide filters and sorting methods and help users better navigate through the website.
