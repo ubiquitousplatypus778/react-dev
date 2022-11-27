@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Songbird Mansion",
+        "description": "The house is welcoming from the open door to the wide hallway. Under the lamp-shine it is nature's art, something that soothes right to the soul.",
+        "price": 4.92,
+        "size": 10023,
+        "location": "Duluth, Minnesota",
+        "image": "images/laurel-and-michael-evans-9cVSoJ3qiIA-unsplash.jpg"
+      },
+    
+      {
+        "name": "Marshmour Estate",
+        "description": "The house, with its many eyes so wide, takes in the verdant view, adorned with the dreamy colors of sunset.",
+        "price": 2.54,
+        "size": 9137,
+        "location": "Montepelier, Vermont",
+        "image": "images/stephen-leonardi-XKIO6ZgCObo-unsplash.jpg"
+      },
+      {
+        "name": "Hazelfield Residence",
+        "description": "The house stands upon strong foundations, with bricks mortared together with loving hands.",
+        "price": 2.13,
+        "size": 8923,
+        "location": "Memphis, Tennessee",
+        "image": "images/ralph-ravi.jpg"
+      },
+    {
+      "name": "Springriver Villa",
+      "description": "Through the large arched windows light flows through all seasons, gracing the air without favour, illuminating the sweet-toffee browns of the wooden floor.",
+      "price": 7.49,
+      "size": 12710,
+      "location":  "Enschede, Netherlands",
+      "image": "images/daniel-barnes-RKdLlTyjm5g-unsplash.jpg"
+    },
+    {
+      "name": "Summergrove Mansion",
+      "description": "The haunted house keeps its ghosts for the same reason people keep a strong dog, to guard and to love, to ease the lonely hours.",
+      "price": 1.69,
+      "size": 8314,
+      "location": "Lincolnshire, England",
+      "image": "images/fabian-wiktor-MBKFuFqlMwo-unsplash.jpg"
+    },
+    {
+      "name": "Noble Palm Residence",
+      "description": "The house that has witnessed so many seasons is always wise enough to celebrate the sunny ones.",
+      "price": 2.04,
+      "size": 9389,
+      "location": "Chihuahua, Mexico",
+      "image": "images/jared-rice-AhiUnolb7cg-unsplash.jpg"
+    },
+    {
+        "name": "Foxpard Residence",
+        "description": "Upon that summer day the house upon the hill is a pastel congregation of sweet hues, windows letting the fresh air flow in, doors opening to friends and kin.",
+        "price": 1.15,
+        "size": 6456,
+        "location": "Nassau, the Bahamas",
+        "image": "images/ralph-ravi-kayden-vbSRUrNm3Ik-unsplash.jpg"
+      },
+    {
+      "name": "Remthall Estate",
+      "description": "All concrete and tall glass windows that give a view of the mountains, a chance to relax and take in the changing of the seasons from the comfort of an easy chair.",
+      "price": 8.76,
+      "size": 23904,
+      "location": "Asheville, North Carolina",
+      "image": "images/john-fornander-tVzyDSV84w8-unsplash.jpg"
+    },
+    {
+      "name": "Graceville Estate",
+      "description": "Those bricks were laid one at a time, perhaps on a fine spring day. Let your eyes wander the roughness and how each is so very straight. This house was made with love, that's for sure.",
+      "price": 3.57,
+      "size": 9357,
+      "location": "Charlottesville, Virginia",
+      "image": "images/judy-grayson-2jk97TV-I04-unsplash.jpg"
+    },
+    
+    {
+      "name": "Calding Estate",
+      "description": "The house is a kaleidoscope of memories, of photographs adorning the walls, each of them conjuring the emotions of those sweet eternal moments.",
+      "price": 1.09,
+      "size": 5490,
+      "location": "Cologne, Germany",
+      "image": "images/naomi-ellsworth-EMPLSuvDuhQ-unsplash.jpg"
+    },
+    {
+      "name": "Rothsbarry Chateau",
+      "description": "The house born of an architect's plan lived and breathed upon the rock, foundations perfectly sound, all set to stand for generations to come.",
+      "price": 3.28,
+      "size": 9086,
+      "location": "Frankfurt, Germany",
+      "image": "images/nick-romanov-_hw4aUQ81ic-unsplash.jpg"
+    },
+    {
+      "name": "Sinnon Manor",
+      "description": "To the mountains in their timeless grace the manor house is but a spring flower in momentary bloom.",
+      "price": 2.05,
+      "size": 7192,
+      "location": "Mount Vernon, Virginia",
+      "image": "images/r-architecture-2gDwlIim3Uw-unsplash.jpg"
+    }
+    
+  ]
+  

@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -11,6 +11,34 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+h1,h3{
+  text-align: center;
+  padding-top: 3rem;
+}
+.Drawer {
+  margin-left: 40;
+}
+.css-iz7z9b-MuiDrawer-docked .MuiDrawer-paper {
+  padding-left: 1rem;
+}
+
+
+.css-gta1rt {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 32px;
+  padding-left: 5rem;
+  padding-right: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 
 .App-header {
