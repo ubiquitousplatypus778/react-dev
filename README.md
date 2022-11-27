@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://ubiquitousplatypus778.github.io/react-dev/
 
 ### Goal and Value of the Application
 The interface is designed to help users view the information of a list of properties and select a property of their choice. 
@@ -17,6 +17,4 @@ I used "props" to pass down data to the components. For the HouseItem, I also us
 
 ### How the User Triggers State Changes
 Whenever a checkbox is checked, the state "isChecked" changes according to the corresponding checkbox, which then cause React to rerender the webpage with the updated information. When the "Add to Favorites" button or "Remove from Favorites" button is clicked, the state "status" within the HouseItem component is changed and the house is added to or removed from "favHouses".
-
-### Link to my deployed web application running online
 
